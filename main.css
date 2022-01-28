@@ -4,10 +4,16 @@
 }
 
 .background {
-    background-color: aliceblue;
+    background-color: white;
     color: rgb(12, 12, 12);
     height: 100vh;
     font-family: Arial, Helvetica, sans-serif;
+}
+
+.title{
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, 100%);
 }
 
 .calculadora{
